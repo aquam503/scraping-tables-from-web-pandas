@@ -1,2 +1,2 @@
-# read-tables-from-web-using-pandas
-read tables from web using pandas
+# scraping-tables-from-web-using-pandas
+scraping tables from web using pandas
